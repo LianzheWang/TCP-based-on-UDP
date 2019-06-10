@@ -1,7 +1,7 @@
 # TCP-based-on-UDP
 WATCH THE document FOR DETAILED INFORMATION plz :).
 
-This project is an approximate implementation of TCP in application layer, which regards unreliable UDP transmission as data transmission in transport layer.
+This project is an approximate Python 3 implementation of TCP in application layer, which regards unreliable UDP transmission as data transmission in transport layer.
 
 Actually, the protocol I implemented is NOT the standard TCP. Its re-transmission strategy is Sliding Window GBN.
 
