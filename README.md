@@ -1,4 +1,6 @@
 # TCP-based-on-UDP
+WATCH THE document FOR DETAILED INFORMATION plz :).
+
 This project is an approximate implementation of TCP in application layer, which regards unreliable UDP transmission as data transmission in transport layer.
 
 Actually, the protocol I implemented is NOT the standard TCP. Its re-transmission strategy is Sliding Window GBN.
@@ -17,5 +19,7 @@ The protocol implementation is implicated inside the sender and receiver side. T
 
 The packet form is C STYLE STRUCT. So it support agent written in C. (It might be helpful for some homework task.)
 
+
+Thank U for reading my words. Code with love~ :)
 
 12/03/2018 in National Taiwan University.
